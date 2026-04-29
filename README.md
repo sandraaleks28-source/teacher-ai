@@ -1,1 +1,1 @@
-# teacher-ai
+# for teacher-ai
