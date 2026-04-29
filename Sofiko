@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<title>ШІ для вчителя</title>
+
+<style>
+body {
+  font-family: Arial;
+  background: #0f172a;
+  color: white;
+  text-align: center;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+input, button {
+  padding: 10px;
+  margin: 10px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+  <h1>ШІ для вчителя</h1>
+  <p>Генерація завдань для будь-якого предмета</p>
+
+  <input placeholder="Введіть тему (наприклад: дроби)" />
+  <br>
+  <button>Згенерувати</button>
+</div>
+
+</body>
+</html>
